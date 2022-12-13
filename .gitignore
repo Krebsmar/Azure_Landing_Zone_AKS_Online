@@ -36,3 +36,5 @@ terraform.rc
 
 # Externally added files by IntelliJ
 .idea
+.terraform
+.terraform.lock.hcl
